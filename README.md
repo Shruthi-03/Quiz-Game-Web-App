@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" alt="JS Badge" />
   <img src="https://img.shields.io/badge/CSS3-Responsive-blue?style=for-the-badge&logo=css3" alt="CSS Badge" />
   <img src="https://img.shields.io/badge/HTML5-Modern-orange?style=for-the-badge&logo=html5" alt="HTML Badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge" />
 </p>
 
 > **Quiz Time!** Test your wits with a sleek, responsive quiz game—perfect for both learning and fun.
